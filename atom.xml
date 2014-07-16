@@ -2,15 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-07-16T16:18:38+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://kaca0083.github.io/atom.xml" rel="self"/>
+  <link href="http://kaca0083.github.io/"/>
+  <updated>2014-07-16T17:34:09+08:00</updated>
+  <id>http://kaca0083.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My First Octopress Blog]]></title>
+    <link href="http://kaca0083.github.io/blog/2014/07/16/my-first-octopress-blog/"/>
+    <updated>2014-07-16T17:32:28+08:00</updated>
+    <id>http://kaca0083.github.io/blog/2014/07/16/my-first-octopress-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
